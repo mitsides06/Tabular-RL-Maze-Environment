@@ -1,9 +1,11 @@
+# Tabular Reinforcement Learning for Navigation in a Maze Environment
+
 ## Project Description 
 This project focuses on implementing and analyzing various reinforcement learning algorithms. The key algorithms explored are Value Iteration, Monte Carlo Control, and Q-learning. It includes analysis on the performance and behaviour of these algorithms under different conditions.
 
 ## Contents
-- "main.py" : Contains the implementation of the reinforcement learning algorithms, hyperparameter tuning, and code for generating visualizations.
-- "report.pdf" : Discusses the theoretical background, implementation details, and findings of the project, enhanced with visualizations.
+- `main.py` : Contains the implementation of the reinforcement learning algorithms, hyperparameter tuning, and code for generating visualizations.
+- `report.pdf` : Discusses the theoretical background, implementation details, and findings of the project, enhanced with visualizations.
 
 ## Key Features
 - **Value Iteration Algorithm:** Implementation and analysis of convergence speed and policy optimality.
