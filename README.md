@@ -15,3 +15,7 @@ This project focuses on implementing and analyzing various reinforcement learnin
 - **Hyperparameter Tuning:** Exploration parameter and learning rate adjustments to optimize algorithm performance.
   
 - **Matplotlib Visualizations:** Graphical analysis of exploration parameter and learning rate, and visualizations of algorithm perfromance and evalutions.
+
+## Libraries
+- NumPy
+- Matplotlib
