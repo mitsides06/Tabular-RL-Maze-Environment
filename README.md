@@ -7,7 +7,11 @@ This project focuses on implementing and analyzing various reinforcement learnin
 
 ## Key Features
 - **Value Iteration Algorithm:** Implementation and analysis of convergence speed and policy optimality.
+  
 - **Monte Carlo Control with ε-greedy Policy:** On-policy first-visit MC control algorithm with an exploration parameter.
+  
 - **Q-Learning:** Off-policy algorithm with ε-greedy policy for exploration and exploitation.
+  
 - **Hyperparameter Tuning:** Exploration parameter and learning rate adjustments to optimize algorithm performance.
+  
 - **Matplotlib Visualizations:** Graphical analysis of exploration parameter and learning rate, and visualizations of algorithm perfromance and evalutions.
